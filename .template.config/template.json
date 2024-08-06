@@ -1,0 +1,13 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Staler2019 (abcde121234@gmail.com)",
+  "classifications": [ "Web", "MVC", "WebPack" ],
+  "identity": "Staler2019.Web.Mvc.CSharp.8.0",
+  "name": "Webpack .NET CORE MVC App",
+  "shortName": "webpack-mvc",
+  "sourceName":"webpack-mvc",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  }
+}
